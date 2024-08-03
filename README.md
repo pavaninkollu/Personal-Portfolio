@@ -1,1 +1,2 @@
-# Personal-Portfolio
+# Dynamic Personal-Portfolio
+Tools: HTML, CSS, JavaScript, Fontawesome.
